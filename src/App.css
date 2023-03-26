@@ -481,7 +481,7 @@ body {
 }
 .cart .content__title svg path {
   stroke: #232323;
-  stroke-width: 1.9;
+  strokewidth: 1.9;
 }
 .cart__clear {
   display: -webkit-box;
@@ -684,7 +684,7 @@ body {
 }
 .cart__bottom-buttons .go-back-btn svg path {
   fill: transparent;
-  stroke-width: 2;
+  strokewidth: 2;
 }
 .cart__bottom-buttons .pay-btn {
   font-size: 16px;
